@@ -1,0 +1,37 @@
+#container{
+    margin: 5%;
+}
+.navbar{
+    display:flex;
+    flex-direction: row;
+    background-color: rgb(39,35,32);
+    color: aliceblue;
+    height: 60px;
+    gap: 60px
+
+}
+.header{
+    padding-left: 35%;
+}
+    
+
+.page2{
+    display: flex;
+    padding-left: 15%;
+    gap:200px;
+    height: 300px;
+    
+}
+
+.subbimage{
+    display: flex;
+    gap: 10%;
+    padding-left: ;
+}
+.page4{
+    display: flex;
+    gap: 200px;
+}
+.page5{
+    gap: 200px;
+}
